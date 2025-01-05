@@ -61,9 +61,11 @@ I also use tools like Dbeaver.
 I have 10+ years with CI/CD pipelines using tools like Gitlab, Jenkins, Bamboo, Dockers, Kubernetes, Istio,  Argo CD,  Helm,  AWS (codebuild,  CodePipeline, CodeDeploy, cloudwatch, ec2, S3 ) and (DevOps, Pipelines),
 
 5.	Code review
+   
 Code review is part of my daily tasks. I review merge requests from colleagues according to clean code, SOLID principles, security, speed and performance.
 
-6.	Documentation
+7.	Documentation
+   
 I update documentations on Confluence when it needed. I have 10+ years experiences with creating and updating documentations on Confluence.
 
 
