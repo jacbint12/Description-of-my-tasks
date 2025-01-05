@@ -3,6 +3,7 @@
  As a Senior Java developer, I develop, test and deploy applications.
 
 1.	Development
+   
 a.	 Configurations
 
 I start with the project definition and configurations. For that, I use some config files:
