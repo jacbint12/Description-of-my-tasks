@@ -39,6 +39,7 @@ Note that we can use Swagger and OpenAPI specifications for the definition, gene
 
 
 2.	Testing
+   
 To be sure I deliver quality code, I need multiple stage of testing.
 a.	Unit tests: This means testing the methods of each class individually. I use Junit for that. Annotation example: @Test, @Before, @After, …
 b.	Integration and functional tests: It verifies that different components work together seamlessly, interact correctly as expected and output are as expected. We use testing frameworks like spring boot test, Mockito, Selenium, TestNG, and Cucumber. 
@@ -50,11 +51,13 @@ c.	End-to-end testing: this step is to replicates a user behavior with the softw
 
 
 3.	Database
+   
 I write SQL scripts to create or update a database. Scripts are in files with named with sql extension. These files are versioned incrementally. These files are created for each environment (local, dev, test, prod).
 I am confortable with databases like MySQL, Oracle, PostgreSQL, IBM Db2, MongoDB, Couchbase, Amazon RDS…
 I also use tools like Dbeaver.
 
 4.	CI/CD DevOps
+   
 I have 10+ years with CI/CD pipelines using tools like Gitlab, Jenkins, Bamboo, Dockers, Kubernetes, Istio,  Argo CD,  Helm,  AWS (codebuild,  CodePipeline, CodeDeploy, cloudwatch, ec2, S3 ) and (DevOps, Pipelines),
 
 5.	Code review
