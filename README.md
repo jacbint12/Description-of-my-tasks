@@ -64,9 +64,15 @@ I have 10+ years with CI/CD pipelines using tools like Gitlab, Jenkins, Bamboo, 
    
 Code review is part of my daily tasks. I review merge requests from colleagues according to clean code, SOLID principles, security, speed and performance.
 
-7.	Documentation
+6.	Documentation
    
 I update documentations on Confluence when it needed. I have 10+ years experiences with creating and updating documentations on Confluence.
 
+7. My leadership Skills as a senior software developer
+
+   I always ensure open communication is maintained by actively listening and talking with respect to colleagues and encouraging meetings. This help to build strong connections and foster a positive team environment. I don't hesitate to give feedback and always do it in a constructive approaches. I value feedback even on myself because it’s a meaningful way to learn what’s working and what isn't. In case of disagreement with a colleague on the code, I always advocate bilateral or multilateral discussion with other developers because I am convinced that these problems can be resolved through courteous explanations and solid arguments.
+If a team member is underperforming, I try to have a one-on-one discussion with him to help as I can because this help reduce delays and meet deadlines. I always keep in mind that the goal is not to ridicule and get upset the junior or the underperforming developer. The goal is to help him increase his performance for the benefit of the whole team. A senior developer must know how to combine intransigence on the quality of the code and the non-frustration of junior developers. He must know how to combine rigor and flexibility. I am fostering an environment where everyone feels valued.
+I stay organised and prioritise tasks based on their urgency and importance and ensuring no compromises on quality of work. I also prioritize bug tickets in Prod and in Acceptances I promote end-to-end tests and code quality tests to ensure that we deliver workable and efficient code as expected by the product owner.
+I keep myself up to date technologically. This include staying up to date on the latest technologies and frameworks that are gaining popularity, architectures that software industry leaders are adopting, reading articles or blog posts about the challenges and opportunities facing the software industry. Learning online by reading courses and watching video courses and demo on YouTube.
 
 
